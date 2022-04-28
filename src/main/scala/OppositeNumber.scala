@@ -8,6 +8,8 @@ object OppositeNumber extends App {
   //   def opposite(number: Double): Double = ???
 
 
-  def opposite(number: Double): Double = ???
+  def opposite(number: Double): Double = -number
+  // the return should just be the opposite of the double
+  // eg 3.4 == -3.4
 
 }
