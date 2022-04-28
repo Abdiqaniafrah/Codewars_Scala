@@ -7,7 +7,8 @@ object Conversion extends App {
   // 999 --> "999"
   //   def numberToString(n: Int): String = ???
 
-  def numberToString(n: Int): String = "67"
+  def numberToString(n: Int): String = n.toString
+  // to convert to a string just use name of the variable + .toString
 
 
 }
